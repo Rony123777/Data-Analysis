@@ -24,7 +24,6 @@ Data Manipulation
 The dataset may need to be manipulated to perform specific analysis tasks. Here are some possible data manipulation tasks that can be performed:
 
 Merge player information with team information to analyze player-team relationships.
-Convert non-numeric data (e.g., player positions) into numeric data for analysis.
 Create new columns to represent player characteristics (e.g., age groups, rating groups).
 Aggregate data to analyze trends over time (e.g., player ratings by year).
 Data Visualization
